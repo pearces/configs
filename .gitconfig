@@ -1,0 +1,11 @@
+[user]
+	name = User Name 
+	email = user@domain.com 
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[color]
+	ui = true
+[push]
+	default = simple
