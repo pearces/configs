@@ -49,6 +49,5 @@ set runtimepath^=~/.vim/bundle/vim-fugitive
 "set runtimepath^=~/.vim/bundle/mustache.vim
 
 autocmd FileType javascript set tabstop=2|set shiftwidth=2|set expandtab|set nocindent
-"autocmd FileType jade set tabstop=2|set shiftwidth=2|set expandtab
 autocmd FileType json set tabstop=2|set shiftwidth=2|set expandtab
 "autocmd FileType html.handlebars set tabstop=2|set shiftwidth=2|set expandtab
